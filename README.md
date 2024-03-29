@@ -25,7 +25,7 @@
 
   ![python](https://img.shields.io/badge/Python-04202C?style=for-the-badge&logo=python&logoColor=FFFF00)
   ![scrapy](https://img.shields.io/badge/Scrapy-04202C?style=for-the-badge&logo=scrapy&logoColor=FFFF00)
-  ![firebasse](https://img.shields.io/badge/firebase-04202C?style=for-the-badge&logo=firebase&logoColor=FFFF00)
+  ![flask](https://img.shields.io/badge/Flask-04202C?style=for-the-badge&logo=flask&logoColor=FFFF00)
 
    ![mysql](https://img.shields.io/badge/MySQL-04202C?style=for-the-badge&logo=mysql&logoColor=FFFF00)
    ![firebase](https://img.shields.io/badge/Firebase-04202C?style=for-the-badge&logo=firebase&logoColor=FFFF00)
