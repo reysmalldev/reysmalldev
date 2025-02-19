@@ -12,9 +12,10 @@
 
 <div style="display: flex"><br>
 
+  
+  ![rails](https://img.shields.io/badge/Rails-04202C?style=for-the-badge&logo=rubyonrails&logoColor=FFFF00)
   ![flutter](https://img.shields.io/badge/Flutter-04202C?style=for-the-badge&logo=flutter&logoColor=FFFF00)
   ![dart](https://img.shields.io/badge/Dart-04202C?style=for-the-badge&logo=dart&logoColor=FFFF00)
-  ![java](https://img.shields.io/badge/Java-04202C?style=for-the-badge&logo=java&logoColor=FFFF00)
   
   ![react](https://img.shields.io/badge/ReactJS-04202C?style=for-the-badge&logo=react&logoColor=FFFF00)
   ![next](https://img.shields.io/badge/Next.js-04202C?style=for-the-badge&logo=Next.js&logoColor=FFFF00)
@@ -22,12 +23,8 @@
   ![html5](https://img.shields.io/badge/HTML5-04202C?style=for-the-badge&logo=html5&logoColor=FFFF00) 
   ![css](https://img.shields.io/badge/CSS3-04202C?style=for-the-badge&logo=css3&logoColor=FFFF00) 
   ![javascript](https://img.shields.io/badge/JavaScript-04202C?style=for-the-badge&logo=javascript&logoColor=FFFF00)
-
-  ![python](https://img.shields.io/badge/Python-04202C?style=for-the-badge&logo=python&logoColor=FFFF00)
-  ![scrapy](https://img.shields.io/badge/Scrapy-04202C?style=for-the-badge&logo=scrapy&logoColor=FFFF00)
-  ![flask](https://img.shields.io/badge/Flask-04202C?style=for-the-badge&logo=flask&logoColor=FFFF00)
-
-   ![mysql](https://img.shields.io/badge/MySQL-04202C?style=for-the-badge&logo=mysql&logoColor=FFFF00)
-   ![firebase](https://img.shields.io/badge/Firebase-04202C?style=for-the-badge&logo=firebase&logoColor=FFFF00)
+  
+  ![mysql](https://img.shields.io/badge/MySQL-04202C?style=for-the-badge&logo=mysql&logoColor=FFFF00)
+  ![firebase](https://img.shields.io/badge/Firebase-04202C?style=for-the-badge&logo=firebase&logoColor=FFFF00)
 </div>
 
